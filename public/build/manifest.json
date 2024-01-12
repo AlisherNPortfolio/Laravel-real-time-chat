@@ -1,0 +1,17 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-aFuStbww.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/chat.css": {
+    "file": "assets/chat-oQNnPbcE.css",
+    "isEntry": true,
+    "src": "resources/css/chat.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-VLVsJ5Le.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
