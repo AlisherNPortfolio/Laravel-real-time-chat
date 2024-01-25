@@ -1,6 +1,6 @@
 # Laravel simple chat messenger
 
-This is a simple chat messenger build with laravel and pusher.
+This is a simple chat messenger built with laravel and pusher.
 
 # Installation
 
